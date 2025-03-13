@@ -40,6 +40,7 @@ I love open-source and believe in **knowledge sharing**. Check out my projects a
 ## 📫 Let's Connect!  
 💼 **[LinkedIn](https://www.linkedin.com/in/fabio-mar/)**  
 🌎 **[Portfolio] WIP**  
+📝 **[Dev Blog] WIP**
 
 ---
 
