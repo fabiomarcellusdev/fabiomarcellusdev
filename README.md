@@ -18,7 +18,7 @@ I'm passionate about building **ethical, high-quality, and transparent** tech so
 - Microservice architecture with **Nginx, Docker, Kubernetes, Redis, PostgreSQL, MongoDB, Kafka, and ElasticSearch**  
 
 ### 🛠️ **Pristine Code CLI Tool (Planned after Developer Blog)**  
-- Integrating AI to improve developer productivity  
+- Integrating AI to improve developer productivity and enforce clean code 
 - Open-source and community-driven  
 
 ---
