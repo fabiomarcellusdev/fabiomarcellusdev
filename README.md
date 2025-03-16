@@ -38,7 +38,7 @@ I'm passionate about building **ethical, high-quality, and transparent** tech so
 
 ### 👨‍💻 **Developer Portfolio** 
 - **Tech Stack**: Next.js (frontend) & Express (backend)
--** Work Experience**: A timeline-based showcase of my employers, job roles, responsibilities, and key achievements at each position.
+- **Work Experience**: A timeline-based showcase of my employers, job roles, responsibilities, and key achievements at each position.
 - **Projects Showcase**:
   - Personal Projects: Each project includes a summary, live demo (if available), GitHub link, and a deep-dive blog post explaining technical decisions.
   - Planned, In-Progress, and Completed Projects: A Kanban-style board linking to relevant developer blog articles.
