@@ -35,7 +35,7 @@ I'm passionate about building **ethical, high-quality, and transparent** tech so
 - **Engagement & Growth**:
   - Upvote & Bookmark System
   - Newsletter automation (weekly digest powered by Mailgun)
-- Auto-Posting to Social Media
+- **Auto-Posting to Social Media**
   - Whenever a new blog post is published, it is automatically shared on Twitter and LinkedIn.
   - Method Choices:
     - Zapier: No-code automation that detects new blog posts and shares them.
