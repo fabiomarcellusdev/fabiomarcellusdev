@@ -35,6 +35,12 @@ I'm passionate about building **ethical, high-quality, and transparent** tech so
 - **Engagement & Growth**:
   - Upvote & Bookmark System
   - Newsletter automation (weekly digest powered by Mailgun)
+- Auto-Posting to Social Media
+  - Whenever a new blog post is published, it is automatically shared on Twitter and LinkedIn.
+  - Method Choices:
+    - Zapier: No-code automation that detects new blog posts and shares them.
+    - n8n: Self-hosted open-source automation for greater flexibility.
+    - Custom Webhooks + API: Uses Twitter & LinkedIn APIs to auto-post blog updates with a link and hashtags.
 
 ### 👨‍💻 **Developer Portfolio** 
 - **Tech Stack**: Next.js (frontend) & Express (backend)
