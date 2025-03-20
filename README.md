@@ -13,7 +13,7 @@ I'm passionate about building **ethical, high-quality, and transparent** tech so
 
 ### 📝 **Developer Blog** (WIP - Coming Soon!)  
 - **Tech Stack**: Next.js (frontend) & Express (backend)
-- **Hybrid Database Architecture**: PostgreSQL (authentication, structured data) & MongoDB (blog posts, comments, analytics)
+- **Hybrid Database Architecture**: AWS RDS PostgreSQL (authentication, structured data) & MongoDB (blog posts, comments, analytics)
 - **OAuth authentication** (Google, GitHub, etc.) for regular users
 - **Microservice Architecture**:
   - API Gateway (REST & GraphQL)
@@ -32,6 +32,7 @@ I'm passionate about building **ethical, high-quality, and transparent** tech so
   - WebAuthn (Biometric Authentication) for admin login security
   - Docker & Kubernetes for containerized deployment
   - Prometheus + Grafana for real-time monitoring
+  - AWS Cloudwatch for logging
 - **Engagement & Growth**:
   - Upvote & Bookmark System
   - Newsletter automation (weekly digest powered by Mailgun)
