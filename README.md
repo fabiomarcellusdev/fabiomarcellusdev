@@ -2,7 +2,7 @@
 
 # 👋 Hey there! I'm Fabio Marcellus  
 
-🚀 **Software Engineer | Open-Source Enthusiast**  
+🚀 **Full Stack Developer | Open-Source Enthusiast**  
 
 I'm passionate about building **ethical, high-quality, and transparent** tech solutions that help people. My work spans across **full-stack development, DevOps, AI integration, and microservices**, with a strong focus on React, Next.js, Express, and scalable backend systems**.  
 
