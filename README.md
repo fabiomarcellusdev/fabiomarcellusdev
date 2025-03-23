@@ -11,7 +11,7 @@ I'm passionate about building **ethical, high-quality, and transparent** tech so
 ## 🏗️ What I'm Building  
 
 
-### 📝 [**KoyaLite**](https://github.com/koyalite/koyalite) (WIP)  
+### 📝 [**KoyaLite**](https://github.com/koyalite/koyalite)
 KoyaLite is a lightweight, open-source backend-as-a-service (BaaS) platform built around [SQLite](https://sqlite.org/). Designed for indie developers, solo founders, and small teams who want a fast, self-hostable backend without the complexity of cloud-native infrastructure.
 
 
