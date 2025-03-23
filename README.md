@@ -1,8 +1,6 @@
-## Hi there 👋
-
 # 👋 Hey there! I'm Fabio Marcellus  
 
-🚀 **Full Stack Developer | Open-Source Enthusiast**  
+**Full Stack Developer | Open-Source Enthusiast**  
 
 I'm passionate about building **ethical, high-quality, and transparent** tech solutions that help people. My work spans across **full-stack development, DevOps, AI integration, and microservices**, with a strong focus on React, Next.js, Express, and scalable backend systems**.  
 
@@ -11,16 +9,16 @@ I'm passionate about building **ethical, high-quality, and transparent** tech so
 ## 🏗️ What I'm Building  
 
 
-### 📝 [**KoyaLite**](https://github.com/koyalite/koyalite)
+### [**KoyaLite**](https://github.com/koyalite/koyalite)
 KoyaLite is a lightweight, open-source backend-as-a-service (BaaS) platform built around [SQLite](https://sqlite.org/). Designed for indie developers, solo founders, and small teams who want a fast, self-hostable backend without the complexity of cloud-native infrastructure.
 
 
----
+
 
 ## 📌 Open-Source & Contributions  
 I love open-source and believe in **knowledge sharing**. Check out my projects and contributions [here](https://github.com/fabiomarcellusdev?tab=repositories). Contributions, feedback, and collaborations are always welcome!  
 
----
+
 
 ## 💡 Fun Facts    
 💡 **Love for automation**—if I do something twice, I find a way to automate it.  
