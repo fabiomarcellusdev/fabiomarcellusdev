@@ -8,6 +8,9 @@ I'm passionate about building **ethical, high-quality, and transparent** tech so
 
 ## 🏗️ What I'm Building  
 
+### [**Prompture**](https://github.com/fabiomarcellusdev/prompture)
+A CLI tool for efficient AI-assisted development. Prompture helps you maintain context and documentation while working with AI assistants. <br><br>
+
 
 ### [**KoyaLite**](https://github.com/koyalite/koyalite)
 KoyaLite is a lightweight, open-source backend-as-a-service (BaaS) platform built around [SQLite](https://sqlite.org/). Designed for indie developers, solo founders, and small teams who want a fast, self-hostable backend without the complexity of cloud-native infrastructure.
