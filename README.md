@@ -2,7 +2,7 @@
 
 **Full Stack Software Engineer | Open-Source Enthusiast**  
 
-I'm passionate about building **ethical, high-quality, and transparent** tech solutions that help people. My work spans across **full-stack development, DevOps, AI integration, and microservices**, with a strong focus on scalability, UX, and accessibility.**.  
+I'm passionate about building **ethical, high-quality, and transparent** tech solutions that help people. My work spans across **full-stack development, DevOps, AI integration, and microservices**, with a strong focus on scalability, UX, and accessibility.  
 
 ---
 
