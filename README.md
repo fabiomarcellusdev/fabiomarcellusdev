@@ -6,15 +6,13 @@ I'm passionate about building **ethical, high-quality, and transparent** tech so
 
 ---
 
-## 🏗️ What I'm Building  
+## What I'm Building  
 
-### [**Prompture**](https://github.com/fabiomarcellusdev/prompture)
-A CLI tool for efficient AI-assisted development. Prompture helps you maintain context and documentation while working with AI assistants. <br><br>
+I’m currently building a Frontend Engineer Learning Hub, a platform designed to help developers level up from beginner to senior through structured blog series, portfolio-ready projects, and interactive learning (Sandpack, quizzes, progress tracking). Once the MVP is complete, it will be made open-source.
 
+This project emphasizes not just how to build, but why — focusing on scalability, maintainability, accessibility, and professional frontend engineering practices.
 
-### [**KoyaLite**](https://github.com/koyalite/koyalite)
-KoyaLite is a lightweight, open-source backend-as-a-service (BaaS) platform built around [SQLite](https://sqlite.org/). Designed for indie developers, solo founders, and small teams who want a fast, self-hostable backend without the complexity of cloud-native infrastructure.
-
+You can explore my in-progress frontend system design architecture docs here: 📄 [Frontend System Design Docs (Notion)](https://www.notion.so/Frontend-System-Design-Architecture-27741b6c85128060b084eb73490223c7)
 
 
 
@@ -22,13 +20,6 @@ KoyaLite is a lightweight, open-source backend-as-a-service (BaaS) platform buil
 I love open-source and believe in **knowledge sharing**. Check out my projects and contributions [here](https://github.com/fabiomarcellusdev?tab=repositories). Contributions, feedback, and collaborations are always welcome!  
 
 
-
-## 💡 Fun Facts    
-💡 **Love for automation**—if I do something twice, I find a way to automate it.  
-
-🎨 **Design-oriented developer**—I care about **both** aesthetics & performance.  
-
-🎬 **Movie & TV Buff**– I love diving into well-crafted stories, whether it’s sci-fi, deep psychological thrillers, or character-driven dramas. Ask me about my favorite directors or series!
 
 ---
 
