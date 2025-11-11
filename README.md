@@ -11,7 +11,7 @@ I'm passionate about building **ethical, high-quality, and transparent** tech so
 I’m building Lord-Commander — a next-generation, open-source CLI SDK that unifies command parsing, prompts, theming, telemetry, and plugins into a zero-config, smart-default framework. It combines the best of Commander.js and Clack to let developers build everything from simple scripts to enterprise-grade tools with ease. Lord-Commander is part of a full ecosystem featuring a Next.js UI dashboard and NestJS API for managing plugins, analytics, and AI-powered automation — all crafted for developers who value speed, clarity, and craftsmanship.
 
 [Lord-Commander CLI SDK Repo](https://github.com/caedonai/lord-commander)
-
+System Design Docs (W.I.P)
 <br>
 
 ### Frontend Engineer Learning Hub (Name TBD)
