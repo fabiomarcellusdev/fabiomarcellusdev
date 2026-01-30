@@ -1,33 +1,80 @@
-# 👋 Hey there! I'm Fabio Marcellus  
+# Hi, I’m Fabio 👋
 
-**Front End Software Engineer | Open-Source Enthusiast**  
+Senior Frontend Engineer specializing in **React, Next.js, and TypeScript**, with a strong focus on **frontend system design**, **testing strategy**, and **UI quality at scale**.
 
-I'm passionate about building **ethical, high-quality, and transparent** tech solutions that help people. My work has a strong focus on scalability, UX, performance, and accessibility. I also love open-source!
-<br>
+I enjoy working on complex UI systems where architecture, performance, accessibility, and long-term maintainability matter just as much as shipping features.
 
-## What I'm Building  
+---
 
-### Lord-Commander CLI SDK
-I’m building Lord-Commander — a next-generation, open-source CLI SDK that unifies command parsing, prompts, theming, telemetry, and plugins into a zero-config, smart-default framework. It combines the best of Commander.js and Clack to let developers build everything from simple scripts to enterprise-grade tools with ease. Lord-Commander is part of a full ecosystem featuring a Next.js UI dashboard and NestJS API for managing plugins, analytics, and AI-powered automation — all crafted for developers who value speed, clarity, and craftsmanship.
+## What I Focus On
 
-[Lord-Commander CLI SDK Repo](https://github.com/caedonai/lord-commander)
+- Designing scalable frontend architectures (Clean / Hexagonal Architecture)
+- Building and maintaining component libraries and design systems
+- Defining frontend testing strategies (unit, integration, E2E, visual regression)
+- Performance optimization and Core Web Vitals
+- Accessibility-first development (WCAG 2.1)
+- Contract-driven frontend development and API integration
+- Collaborating closely with design, product, backend, and QA teams
 
-System Design Docs (W.I.P)
-<br>
+---
 
-### Frontend Engineer Learning Hub (Name TBD)
-My next project is a Frontend Engineer Learning Hub.
-I’m currently building a Frontend Engineer Learning Hub, a platform designed to help developers level up from beginner to senior through structured blog series, portfolio-ready projects, and interactive learning (Sandpack, quizzes, progress tracking). Once the MVP is complete, it will be made open-source.
+## Tech I Work With
 
-This project emphasizes not just how to build, but why — focusing on scalability, maintainability, accessibility, and professional frontend engineering practices.
+**Frontend**
+- React, Next.js, TypeScript
+- Redux (client state), React Query (server state)
+- HTML, CSS, Tailwind
 
-You can explore my in-progress frontend system design architecture docs here: 📄 [Frontend System Design Docs (Notion)](https://www.notion.so/Frontend-System-Design-Architecture-27741b6c85128060b084eb73490223c7)
+**Architecture & Data**
+- Frontend System Design
+- Clean Architecture, Hexagonal Architecture
+- REST APIs, GraphQL, API Contracts
 
-<br>
-<br>
+**Testing & Quality**
+- Jest, React Testing Library
+- Cypress, Playwright
+- Cucumber, Gherkin
+- Mock Service Worker (MSW)
+- Storybook, Chromatic (visual regression)
 
-## 📫 Let's Connect!  
-💼 **[LinkedIn](https://www.linkedin.com/in/fabio-mar/)** 
+**Performance & Delivery**
+- Core Web Vitals, Lighthouse
+- Docker, CI/CD pipelines
 
+---
 
+## How I Think About Frontend
 
+I treat frontend applications as **long-lived systems**, not just collections of components.
+
+That means:
+- Separating domain logic from UI frameworks
+- Being intentional about state ownership and data flow
+- Choosing testing approaches based on risk, not dogma
+- Designing UI systems that scale across teams
+- Making tradeoffs explicit and documented
+
+---
+
+## Featured Work
+
+Pinned repositories on my profile highlight:
+- WIP
+
+Each repository includes documentation explaining *why* certain decisions were made, not just *how* they were implemented.
+
+---
+
+## Currently Exploring
+
+- Advanced frontend testing strategies
+- Contract-driven frontend development
+- Scalable design systems and UI infrastructure
+- Practical AI integration patterns in frontend applications
+
+---
+
+## Get in Touch
+
+- LinkedIn: https://linkedin.com/in/fabio-mar
+- GitHub: https://github.com/fabiomarcellusdev
