@@ -1,6 +1,6 @@
 # Hi, I’m Fabio 👋
 
-Frontend Engineer specializing in **React, Next.js, and TypeScript**, with a strong focus on **frontend system design**, **testing strategy**, and **UI quality at scale**.
+Software Engineer with ~5 years of professional experience building modern web applications and developer tooling.
 
 I enjoy working on complex UI systems where architecture, performance, accessibility, and long-term maintainability matter just as much as shipping features.
 
