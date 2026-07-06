@@ -1,6 +1,6 @@
 # Hi, I’m Fabio 👋
 
-Software Engineer with ~5 years of professional experience building modern web applications and developer tooling.
+Frontend Senior Software Engineer with more than 5 years of professional experience building modern web applications and developer tooling.
 
 I enjoy working on complex UI systems where architecture, performance, accessibility, and long-term maintainability matter just as much as shipping features.
 
