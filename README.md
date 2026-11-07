@@ -1,6 +1,6 @@
 # Hi, I’m Fabio 👋
 
-**Senior Software Engineer** · US Central Time · Open to fully remote Senior Software Engineer and Senior Frontend Engineer roles
+**Senior Software Engineer** · US Central Time · Remote
 
 I build modern web applications and developer tooling, with more than 5 years of professional experience. I care about architecture, performance, accessibility and long-term maintainability as much as shipping features.
 
